@@ -1,0 +1,27 @@
+{
+  "name": "okex-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979/node-okex-ws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/you21979/node-okex-ws/issues"
+  },
+  "homepage": "https://github.com/you21979/node-okex-ws#readme",
+  "dependencies": {
+    "binaryarray": "0.0.6",
+    "ws": "^3.3.3"
+  }
+}
