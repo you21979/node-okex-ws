@@ -12,7 +12,7 @@ const update = (fps, time) => {
 }
 
 const main = async () => {
-    const btc_fps = new FuturesPublicStream(constant.WS_URL_OKEX_FUTURES_API, "btc", "ticker|depth")
+    const btc_fps = new FuturesPublicStream(constant.WS_URL_OKEX_FUTURES_API, "btc", "ticker")
     update(btc_fps, 1000)
 }
 
