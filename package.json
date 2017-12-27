@@ -14,8 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/you21979/node-okex-ws.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Yuki Akiyama",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/you21979/node-okex-ws/issues"
   },
